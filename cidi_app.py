@@ -61,7 +61,10 @@ with tab1:
     
     #st.info(f"Se cuentan {len(df_final)} registros de este programa")
 
-    st.info(df_final.groupby('anho')['mat'].sum())
+    
+    st.info(f"mat total: {df_final['mat'].sum()}")
+    st.info(f"mat_1er total: {df_final['mat_1er'].sum()}")
+    st.info(f"n_carreras_j1 total: {df_final['n_carreras_j1'].sum()}")
 
 with tab2:
     st.dataframe(df_rev)

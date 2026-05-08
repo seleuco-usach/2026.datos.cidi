@@ -6,7 +6,7 @@ import numpy as np
 
 st.set_page_config(layout="wide")
 
-st.title("CIDI Indicadores Financieross")
+st.title("CIDI Indicadores Financieros")
 
 df =pd.read_csv("tabla_cidi.csv")
 df_rev =pd.read_csv("tabla_cidi_rev.csv")

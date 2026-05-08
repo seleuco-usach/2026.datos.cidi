@@ -59,5 +59,9 @@ with tab1:
 
     st.dataframe(df_final, use_container_width=True)
     
+    #st.info(f"Se cuentan {len(df_final)} registros de este programa")
+
+    st.info(df_final.groupby('anho')['mat'].sum())
+
 with tab2:
     st.dataframe(df_rev)

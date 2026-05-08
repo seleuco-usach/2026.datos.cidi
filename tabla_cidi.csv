@@ -1,0 +1,127 @@
+id,FACULTAD,AÑO,DEPARTAMENTOS,TOTAL ALUMNOS PREGRADO,ALUMNOS NUEVOS PREGRADO,JCE DR/JCE (i),N° DE CARRERAS DIURNAS,TASA DE TITULACIÓN,TASA DE RETENCIÓN 1ER AÑO,N° DE PROYECTOS ANID,N° PUBLICA WOS Y SCIELO
+2023-BACHILLERATO EN CIENCIAS Y HUMANIDADES,VICERRECTORIA ACADEMICA,2023,BACHILLERATO EN CIENCIAS Y HUMANIDADES,298,185,"68,0",1,N/A,"74,00",S/I,S/I
+2023-DEPARTAMENTO DE ADMINISTRACION,FAE,2023,DEPARTAMENTO DE ADMINISTRACION,1675,373,"25,0",1,"59,00","82,00",1,"2.567,00"
+2023-DEPARTAMENTO DE ECONOMIA,FAE,2023,DEPARTAMENTO DE ECONOMIA,0,0,"41,0",1,"0,00","0,00",5,"400,00"
+2023-DEPARTAMENTO DE BIOLOGIA,FQYB,2023,DEPARTAMENTO DE BIOLOGIA,270,48,"74,0",1,"13,00","69,00",32,"6.967,00"
+2023-DEPARTAMENTO DE CIENCIA Y TECNOLOGIA DE LOS ALIMENTOS,FACTEC,2023,DEPARTAMENTO DE CIENCIA Y TECNOLOGIA DE LOS ALIMENTOS,259,53,"58,0",2,"6,00","72,00",17,"3.533,00"
+2023-DEPARTAMENTO DE CONTABILIDAD Y AUDITORIA,FAE,2023,DEPARTAMENTO DE CONTABILIDAD Y AUDITORIA,1048,246,"20,0",1,"6,00","93,00",3,"700,00"
+2023-DEPARTAMENTO DE EDUCACION,FAHU,2023,DEPARTAMENTO DE EDUCACION,188,46,"36,0",1,"55,00","85,00",6,"633,00"
+2023-DEPARTAMENTO DE ESTUDIOS POLITICOS,FAHU,2023,DEPARTAMENTO DE ESTUDIOS POLITICOS,242,43,"60,0",1,"41,00","93,00",0,"300,00"
+2023-DEPARTAMENTO DE FILOSOFIA,FAHU,2023,DEPARTAMENTO DE FILOSOFIA,73,20,"91,0",1,"0,00","90,00",1,"533,00"
+2023-DEPARTAMENTO DE FISICA,CIENCIA,2023,DEPARTAMENTO DE FISICA,545,116,"69,0",3,"4,00","78,00",39,"12.900,00"
+2023-DEPARTAMENTO DE GESTION AGRARIA,FACTEC,2023,DEPARTAMENTO DE GESTION AGRARIA,143,26,"25,0",1,"5,00","65,00",5,"2.000,00"
+2023-DEPARTAMENTO DE GESTION Y POLITICAS PUBLICAS,FAE,2023,DEPARTAMENTO DE GESTION Y POLITICAS PUBLICAS,583,109,"24,0",1,"65,00","76,00",1,"500,00"
+2023-DEPARTAMENTO DE HISTORIA,FAHU,2023,DEPARTAMENTO DE HISTORIA,366,88,"55,0",2,"0,00","70,00",16,"1.400,00"
+2023-DEPARTAMENTO DE INGENIERIA ELECTRICA,FING,2023,DEPARTAMENTO DE INGENIERIA ELECTRICA,1066,179,"32,0",2,"2,00","62,00",16,"4.400,00"
+2023-DEPARTAMENTO DE INGENIERIA EN MINAS,FING,2023,DEPARTAMENTO DE INGENIERIA EN MINAS,770,148,"35,0",2,"4,00","59,00",2,"400,00"
+2023-DEPARTAMENTO DE INGENIERIA EN OBRAS CIVILES,FING,2023,DEPARTAMENTO DE INGENIERIA EN OBRAS CIVILES,509,88,"36,0",1,"5,00","78,00",5,"2.000,00"
+2023-DEPARTAMENTO DE INGENIERIA GEOESPACIAL Y AMBIENTAL,FING,2023,DEPARTAMENTO DE INGENIERIA GEOESPACIAL Y AMBIENTAL,498,77,"31,0",3,"0,00","65,00",3,"1.633,00"
+2023-DEPARTAMENTO DE INGENIERIA INDUSTRIAL,FING,2023,DEPARTAMENTO DE INGENIERIA INDUSTRIAL,1214,250,"39,0",2,"3,00","76,00",2,"3.200,00"
+2023-DEPARTAMENTO DE INGENIERIA INFORMATICA,FING,2023,DEPARTAMENTO DE INGENIERIA INFORMATICA,900,192,"48,0",2,"3,00","84,00",5,"3.200,00"
+2023-DEPARTAMENTO DE INGENIERIA MECANICA,FING,2023,DEPARTAMENTO DE INGENIERIA MECANICA,818,151,"35,0",3,"5,00","59,00",11,"4.000,00"
+2023-DEPARTAMENTO DE INGENIERIA METALURGICA,FING,2023,DEPARTAMENTO DE INGENIERIA METALURGICA,429,98,"50,0",2,"1,00","50,00",8,"1.400,00"
+2023-DEPARTAMENTO DE INGENIERIA QUIMICA Y BIOPROCESOS,FING,2023,DEPARTAMENTO DE INGENIERIA QUIMICA Y BIOPROCESOS,763,151,"53,0",3,"2,00","64,00",12,"3.600,00"
+2023-DEPARTAMENTO DE LINGÜISTICA Y LITERATURA,FAHU,2023,DEPARTAMENTO DE LINGÜISTICA Y LITERATURA,811,191,"16,0",3,"33,00","85,00",2,"2.400,00"
+2023-DEPARTAMENTO DE MATEMATICA Y CIENCIA DE LA COMPUTACION,CIENCIA,2023,DEPARTAMENTO DE MATEMATICA Y CIENCIA DE LA COMPUTACION,822,140,"36,0",4,"8,00","71,00",12,"5.333,00"
+2023-DEPARTAMENTO DE PUBLICIDAD E IMAGEN,FACTEC,2023,DEPARTAMENTO DE PUBLICIDAD E IMAGEN,494,87,"14,0",2,"59,00","91,00",0,"0,00"
+2023-DEPARTAMENTO DE QUIMICA DE LOS MATERIALES,FQYB,2023,DEPARTAMENTO DE QUIMICA DE LOS MATERIALES,67,18,"85,0",1,"40,00","83,00",38,"6.733,00"
+2023-DEPARTAMENTO DE TECNOLOGIAS DE GESTION,FACTEC,2023,DEPARTAMENTO DE TECNOLOGIAS DE GESTION,259,93,"12,0",3,"34,00","78,00",0,"300,00"
+2023-DEPARTAMENTO DE TECNOLOGIAS INDUSTRIALES,FACTEC,2023,DEPARTAMENTO DE TECNOLOGIAS INDUSTRIALES,483,187,"19,0",4,"21,00","68,00",2,"400,00"
+2023-ESCUELA DE ARQUITECTURA,FARAC,2023,ESCUELA DE ARQUITECTURA,541,97,"30,0",1,"49,00","91,00",1,"100,00"
+2023-ESCUELA DE CIENCIAS DE LA ACTIVIDAD FISICA EL DEPORTE Y LA SALUD,FACIMED,2023,ESCUELA DE CIENCIAS DE LA ACTIVIDAD FISICA EL DEPORTE Y LA SALUD,421,122,"8,0",3,"34,00","80,00",1,"6.667,00"
+2023-ESCUELA DE ENFERMERIA,FACIMED,2023,ESCUELA DE ENFERMERIA,390,68,"4,0",1,"17,00","85,00",0,"600,00"
+2023-ESCUELA DE KINESIOLOGIA,FACIMED,2023,ESCUELA DE KINESIOLOGIA,290,52,"8,0",1,"23,00","87,00",0,"767,00"
+2023-ESCUELA DE MEDICINA,FACIMED,2023,ESCUELA DE MEDICINA,591,93,"13,0",1,"74,00","98,00",7,"5.300,00"
+2023-ESCUELA DE OBSTETRICIA Y PUERICULTURA,FACIMED,2023,ESCUELA DE OBSTETRICIA Y PUERICULTURA,421,60,"7,0",1,"0,00","92,00",0,"333,00"
+2023-ESCUELA DE PERIODISMO,FAHU,2023,ESCUELA DE PERIODISMO,331,74,"22,0",1,"54,00","86,00",5,"233,00"
+2023-ESCUELA DE PSICOLOGIA,FAHU,2023,ESCUELA DE PSICOLOGIA,595,126,"34,0",1,"47,00","86,00",5,"2.833,00"
+2023-ESCUELA DE TERAPIA OCUPACIONAL,FACIMED,2023,ESCUELA DE TERAPIA OCUPACIONAL,275,52,"2,0",1,"78,00","83,00",1,"0,00"
+2023-FACULTAD DE DERECHO,DERECHO,2023,FACULTAD DE DERECHO,783,194,"4,0",1,"0,00","79,00",S/I,S/I
+2023-FACULTAD DE INGENIERIA,FING,2023,FACULTAD DE INGENIERIA,537,198,"0,0",3,N/A,"71,00",0,"300,00"
+2023-FACULTAD DE QUIMICA Y BIOLOGIA,FQYB,2023,FACULTAD DE QUIMICA Y BIOLOGIA,692,127,"0,0",3,"20,00","83,00",S/I,S/I
+2023-FACULTAD DE CIENCIAS MEDICAS,FACIMED,2023,FACULTAD DE CIENCIAS MEDICAS,N/A,N/A,"14,0",8,N/A,N/A,S/I,S/I
+2023-DEPARTAMENTO DE CIENCIAS DEL AMBIENTE,FQYB,2023,DEPARTAMENTO DE CIENCIAS DEL AMBIENTE,N/A,N/A,"87,0",1,N/A,N/A,18,"6600,00"
+2024-Departamento de Matematica y Ciencia de la Computacion,CIENCIA,2024,Departamento de Matematica y Ciencia de la Computacion,680,141,"0,18",4,"0,19","0,91",,
+2024-Departamento de Gestion Agraria,FACTEC,2024,Departamento de Gestion Agraria,105,20,"0,25",1,"0,27","0,90",,
+2024-Departamento de Tecnologias de Gestion,FACTEC,2024,Departamento de Tecnologias de Gestion,183,79,"0,19",5,"0,41","1,00",,
+2024-Departamento de Ciencia y Tecnologia de los Alimentos,FACTEC,2024,Departamento de Ciencia y Tecnologia de los Alimentos,170,35,"0,38",2,"0,19","0,77",,
+2024-Departamento de Tecnologias Industriales,FACTEC,2024,Departamento de Tecnologias Industriales,233,80,"0,19",4,"0,36","0,68",,
+2024-Escuela de Ciencias de la Actividad Fisica el Deporte y la Salud,FACIMED,2024,Escuela de Ciencias de la Actividad Fisica el Deporte y la Salud,342,96,"0,18",3,"0,51","0,92",,
+2024-Departamento de Ingenieria Electrica,FING,2024,Departamento de Ingenieria Electrica,765,156,"0,24",2,"0,24","0,76",,
+2024-Escuela de Enfermeria,FACIMED,2024,Escuela de Enfermeria,284,39,"0,19",1,"0,52","0,76",,
+2024-Departamento de Ingenieria Industrial,FING,2024,Departamento de Ingenieria Industrial,912,159,"0,26",2,"0,34","0,84",,
+2024-Departamento de Ingenieria Mecanica,FING,2024,Departamento de Ingenieria Mecanica,587,137,"0,30",3,"0,18","0,81",,
+2024-Departamento de Ingenieria en Minas,FING,2024,Departamento de Ingenieria en Minas,556,125,"0,30",2,"0,14","0,69",,
+2024-Departamento de Ingenieria Geoespacial y Ambiental,FING,2024,Departamento de Ingenieria Geoespacial y Ambiental,408,72,"0,25",5,"0,10","0,51",,
+2024-Departamento de Ingenieria Informatica,FING,2024,Departamento de Ingenieria Informatica,621,126,"0,22",2,"0,21","0,86",,
+2024-Departamento de Economia,FAE,2024,Departamento de Economia,0,0,"0,29",0,-,-,,
+2024-Escuela de Periodismo,FAHU,2024,Escuela de Periodismo,301,60,"0,23",1,"0,59","0,82",,
+2024-Departamento de Ingenieria Quimica y Bioprocesos,FING,2024,Departamento de Ingenieria Quimica y Bioprocesos,634,155,"0,37",4,"0,19","0,76",,
+2024-Departamento de Estudios Politicos,FAHU,2024,Departamento de Estudios Politicos,216,44,"0,49",1,"0,55","0,75",,
+2024-Departamento de Quimica de los Materiales,FQYB,2024,Departamento de Quimica de los Materiales,246,58,"0,65",3,"0,54","0,71",,
+2024-Departamento de Educacion,FAHU,2024,Departamento de Educacion,153,40,"0,25",1,"0,56","0,88",,
+2024-Departamento de Historia,FAHU,2024,Departamento de Historia,321,71,"0,40",2,"0,51","0,69",,
+2024-Departamento de Contabilidad y Auditoria,FAE,2024,Departamento de Contabilidad y Auditoria,1125,266,"0,21",1,"0,50","0,90",,
+2024-Departamento de Ingenieria en Obras Civiles,FING,2024,Departamento de Ingenieria en Obras Civiles,425,75,"0,19",1,"0,40","0,67",,
+2024-Departamento de Ingenieria Metalurgica,FING,2024,Departamento de Ingenieria Metalurgica,304,89,"0,28",2,"0,03","0,65",,
+2024-Facultad de Ciencias Medicas,FACIMED,2024,Facultad de Ciencias Medicas,0,0,"0,24",0,"0,41",-,,
+2024-Departamento de Administracion,FAE,2024,Departamento de Administracion,1582,340,"0,29",1,"0,61","0,84",,
+2024-Departamento de Gestion y Politicas Publicas,FAE,2024,Departamento de Gestion y Politicas Publicas,468,96,"0,25",1,"0,67","0,82",,
+2024-Departamento de Fisica,CIENCIA,2024,Departamento de Fisica,447,88,"0,29",3,"0,27","0,93",,
+2024-Escuela de Arquitectura,FARAC,2024,Escuela de Arquitectura,468,74,"0,20",1,"0,74","0,89",,
+2024-Departamento de Lingüistica y Literatura,FAHU,2024,Departamento de Lingüistica y Literatura,638,126,"0,32",3,"0,51","0,92",,
+2024-Facultad de Quimica y Biologia,FQYB,2024,Facultad de Quimica y Biologia,345,69,"0,00",1,"0,38","0,91",,
+2024-Departamento de Filosofia,FAHU,2024,Departamento de Filosofia,67,17,"0,53",1,"0,17","0,75",,
+2024-Bachillerato en Ciencias y Humanidades,VICERRECTORIA ACADEMICA,2024,Bachillerato en Ciencias y Humanidades,234,127,"0,60",1,"0,00","0,78",,
+2024-Escuela de Kinesiologia,FACIMED,2024,Escuela de Kinesiologia,235,43,"0,23",1,"0,47","0,90",,
+2024-Escuela de Terapia Ocupacional,FACIMED,2024,Escuela de Terapia Ocupacional,204,40,"0,01",1,"0,86","0,91",,
+2024-Facultad de Derecho,DERECHO,2024,Facultad de Derecho,772,164,"0,04",1,"0,03","0,80",,
+2024-Departamento de Biologia,FQYB,2024,Departamento de Biologia,206,45,"0,42",1,-,"0,85",,
+2024-Escuela de Medicina,FACIMED,2024,Escuela de Medicina,378,43,"0,09",1,"0,85","0,96",,
+2024-Escuela de Obstetricia y Puericultura,FACIMED,2024,Escuela de Obstetricia y Puericultura,306,41,"0,20",1,"0,24","0,92",,
+2024-Escuela de Psicologia,FAHU,2024,Escuela de Psicologia,433,61,"0,33",1,"0,65","0,89",,
+2024-Departamento de Publicidad e Imagen,FACTEC,2024,Departamento de Publicidad e Imagen,432,58,"0,27",2,"0,62","0,93",,
+2024-Facultad de Ingenieria,FING,2024,Facultad de Ingenieria,552,180,"0,00",3,-,"0,45",,
+2024-Departamento de Ciencias del Ambiente,FQYB,2024,Departamento de Ciencias del Ambiente,0,0,"0,54",0,-,-,,
+2025-Departamento de Administracion,FAE,2025,Departamento de Administracion,1559,357,"0,27",1,"0,62","0,84",,
+2025-Departamento de Matematica y Ciencia de la Computacion,CIENCIA,2025,Departamento de Matematica y Ciencia de la Computacion,685,166,"0,24",4,"0,20","0,91",,
+2025-Departamento de Gestion Agraria,FACTEC,2025,Departamento de Gestion Agraria,96,18,"0,23",1,"0,20","0,90",,
+2025-Departamento de Tecnologias de Gestion,FACTEC,2025,Departamento de Tecnologias de Gestion,266,122,"0,13",5,"0,45","1,00",,
+2025-Departamento de Ciencia y Tecnologia de los Alimentos,FACTEC,2025,Departamento de Ciencia y Tecnologia de los Alimentos,179,53,"0,41",2,"0,14","0,77",,
+2025-Departamento de Tecnologias Industriales,FACTEC,2025,Departamento de Tecnologias Industriales,228,90,"0,18",4,"0,27","0,68",,
+2025-Escuela de Ciencias de la Actividad Fisica el Deporte y la Salud,FACIMED,2025,Escuela de Ciencias de la Actividad Fisica el Deporte y la Salud,386,108,"0,20",3,"0,43","0,92",,
+2025-Departamento de Ingenieria Electrica,FING,2025,Departamento de Ingenieria Electrica,731,157,"0,42",2,"0,14","0,76",,
+2025-Escuela de Enfermeria,FACIMED,2025,Escuela de Enfermeria,248,41,"0,19",1,"0,67","0,76",,
+2025-Departamento de Ingenieria Industrial,FING,2025,Departamento de Ingenieria Industrial,875,181,"0,21",2,"0,19","0,84",,
+2025-Departamento de Ingenieria Mecanica,FING,2025,Departamento de Ingenieria Mecanica,571,173,"0,28",3,"0,09","0,81",,
+2025-Departamento de Ingenieria en Minas,FING,2025,Departamento de Ingenieria en Minas,555,152,"0,31",2,"0,05","0,69",,
+2025-Departamento de Ingenieria Geoespacial y Ambiental,FING,2025,Departamento de Ingenieria Geoespacial y Ambiental,385,110,"0,15",6,"0,11","0,51",,
+2025-Departamento de Ingenieria Informatica,FING,2025,Departamento de Ingenieria Informatica,653,159,"0,26",2,"0,09","0,86",,
+2025-Departamento de Economia,FAE,2025,Departamento de Economia,0,0,"0,30",0,-,-,,
+2025-Departamento de Ingenieria Quimica y Bioprocesos,FING,2025,Departamento de Ingenieria Quimica y Bioprocesos,632,174,"0,35",4,"0,15","0,76",,
+2025-Departamento de Estudios Politicos,FAHU,2025,Departamento de Estudios Politicos,208,46,"0,64",1,"0,64","0,75",,
+2025-Departamento de Quimica de los Materiales,FQYB,2025,Departamento de Quimica de los Materiales,234,79,"0,72",3,"0,35","0,71",,
+2025-Departamento de Educacion,FAHU,2025,Departamento de Educacion,169,47,"0,31",1,"0,66","0,88",,
+2025-Departamento de Historia,FAHU,2025,Departamento de Historia,330,100,"0,43",2,"0,55","0,69",,
+2025-Departamento de Contabilidad y Auditoria,FAE,2025,Departamento de Contabilidad y Auditoria,1131,250,"0,32",1,"0,54","0,90",,
+2025-Departamento de Ingenieria en Obras Civiles,FING,2025,Departamento de Ingenieria en Obras Civiles,419,101,"0,21",1,"0,16","0,67",,
+2025-Departamento de Ingenieria Metalurgica,FING,2025,Departamento de Ingenieria Metalurgica,280,89,"0,31",2,"0,04","0,65",,
+2025-Departamento de Gestion y Politicas Publicas,FAE,2025,Departamento de Gestion y Politicas Publicas,435,125,"0,35",1,"0,75","0,82",,
+2025-Departamento de Fisica,CIENCIA,2025,Departamento de Fisica,449,94,"0,28",3,"0,13","0,93",,
+2025-Escuela de Arquitectura,FARAC,2025,Escuela de Arquitectura,478,100,"0,18",1,"0,51","0,89",,
+2025-Departamento de Lingüistica y Literatura,FAHU,2025,Departamento de Lingüistica y Literatura,649,141,"0,26",3,"0,49","0,92",,
+2025-Facultad de Quimica y Biologia,FQYB,2025,Facultad de Quimica y Biologia,342,71,"0,00",1,"0,28","0,91",,
+2025-Departamento de Publicidad e Imagen,FACTEC,2025,Departamento de Publicidad e Imagen,433,97,"0,26",3,"0,68","0,93",,
+2025-Departamento de Filosofia,FAHU,2025,Departamento de Filosofia,72,19,"0,81",1,"0,23","0,75",,
+2025-Bachillerato en Ciencias y Humanidades,VICERRECTORIA ACADEMICA,2025,Bachillerato en Ciencias y Humanidades,273,161,"0,69",1,"0,00","0,78",,
+2025-Escuela de Kinesiologia,FACIMED,2025,Escuela de Kinesiologia,242,50,"0,16",1,"0,44","0,90",,
+2025-Escuela de Terapia Ocupacional,FACIMED,2025,Escuela de Terapia Ocupacional,198,42,"0,08",1,"0,80","0,91",,
+2025-Facultad de Derecho,DERECHO,2025,Facultad de Derecho,897,201,"0,15",1,"0,00","0,80",,
+2025-Departamento de Biologia,FQYB,2025,Departamento de Biologia,209,43,"0,47",1,-,"0,85",,
+2025-Escuela de Medicina,FACIMED,2025,Escuela de Medicina,381,48,"0,13",1,"0,78","0,96",,
+2025-Escuela de Obstetricia y Puericultura,FACIMED,2025,Escuela de Obstetricia y Puericultura,275,40,"0,15",1,"0,29","0,92",,
+2025-Escuela de Periodismo,FAHU,2025,Escuela de Periodismo,292,57,"0,30",1,"0,63","0,82",,
+2025-Escuela de Psicologia,FAHU,2025,Escuela de Psicologia,419,76,"0,31",1,"0,63","0,89",,
+2025-Facultad de Ingenieria,FING,2025,Facultad de Ingenieria,635,220,"0,00",3,"0,09","0,45",,
+2025-Departamento de Ciencias del Ambiente,FQYB,2025,Departamento de Ciencias del Ambiente,0,0,"0,48",0,-,-,,
+2025-Facultad de Ciencias Medicas,FACIMED,2025,Facultad de Ciencias Medicas,0,0,"0,18",0,"0,32",-,,

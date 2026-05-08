@@ -1,0 +1,52 @@
+Departamentos,mat_2023,mat_2024,mat_2025,mat_1_2023,mat_1_2024,mat_1_2025,jce_2023,jce_ 2024,jce_ 2025,n_prog_2023,n_prog_2024,n_prog_2025,tit_2023,tit_2024,tit_2025,ret_2023,ret_2024,ret_2025
+Bachillerato En Ciencias Y Humanidades,298,234,273,185,127,161,"68,0","0,6","0,7",1,1,1,N/A,"0,00","0,00","74,00","0,78","0,78"
+Departamento De Administracion,1675,1582,1559,373,340,357,"25,0","0,3","0,3",1,1,1,"59,00","0,61","0,62","82,00","0,84","0,84"
+Departamento De Economia,0,0,0,0,0,0,"41,0","0,3","0,3",1,0,0,"0,00",-,-,"0,00",-,-
+Departamento De Biologia,270,206,209,48,45,43,"74,0","0,4","0,5",1,1,1,"13,00",-,-,"69,00","0,85","0,85"
+Departamento De Ciencia Y Tecnologia De Los Alimentos,259,170,179,53,35,53,"58,0","0,4","0,4",2,2,2,"6,00","0,19","0,14","72,00","0,77","0,77"
+Departamento De Contabilidad Y Auditoria,1048,1125,1131,246,266,250,"20,0","0,2","0,3",1,1,1,"6,00","0,50","0,54","93,00","0,90","0,90"
+Departamento De Educacion,188,153,169,46,40,47,"36,0","0,3","0,3",1,1,1,"55,00","0,56","0,66","85,00","0,88","0,88"
+Departamento De Estudios Politicos,242,216,208,43,44,46,"60,0","0,5","0,6",1,1,1,"41,00","0,55","0,64","93,00","0,75","0,75"
+Departamento De Filosofia,73,67,72,20,17,19,"91,0","0,5","0,8",1,1,1,"0,00","0,17","0,23","90,00","0,75","0,75"
+Departamento De Fisica,545,447,449,116,88,94,"69,0","0,3","0,3",3,3,3,"4,00","0,27","0,13","78,00","0,93","0,93"
+Departamento De Gestion Agraria,143,105,96,26,20,18,"25,0","0,2","0,2",1,1,1,"5,00","0,27","0,20","65,00","0,90","0,90"
+Departamento De Gestion Y Politicas Publicas,583,468,435,109,96,125,"24,0","0,3","0,3",1,1,1,"65,00","0,67","0,75","76,00","0,82","0,82"
+Departamento De Historia,366,321,330,88,71,100,"55,0","0,4","0,4",2,2,2,"0,00","0,51","0,55","70,00","0,69","0,69"
+Departamento De Ingenieria Electrica,1066,765,731,179,156,157,"32,0","0,2","0,4",2,2,2,"2,00","0,24","0,14","62,00","0,76","0,76"
+Departamento De Ingenieria En Minas,770,556,555,148,125,152,"35,0","0,3","0,3",2,2,2,"4,00","0,14","0,05","59,00","0,69","0,69"
+Departamento De Ingenieria En Obras Civiles,509,425,419,88,75,101,"36,0","0,2","0,2",1,1,1,"5,00","0,40","0,16","78,00","0,67","0,67"
+Departamento De Ingenieria Geoespacial Y Ambiental,498,408,385,77,72,110,"31,0","0,2","0,2",3,5,6,"0,00","0,10","0,11","65,00","0,51","0,51"
+Departamento De Ingenieria Industrial,1214,912,875,250,159,181,"39,0","0,3","0,2",2,2,2,"3,00","0,34","0,19","76,00","0,84","0,84"
+Departamento De Ingenieria Informatica,900,621,653,192,126,159,"48,0","0,2","0,3",2,2,2,"3,00","0,21","0,09","84,00","0,86","0,86"
+Departamento De Ingenieria Mecanica,818,587,571,151,137,173,"35,0","0,3","0,3",3,3,3,"5,00","0,18","0,09","59,00","0,81","0,81"
+Departamento De Ingenieria Metalurgica,429,304,280,98,89,89,"50,0","0,3","0,3",2,2,2,"1,00","0,03","0,04","50,00","0,65","0,65"
+Departamento De Ingenieria Quimica Y Bioprocesos,763,634,632,151,155,174,"53,0","0,4","0,4",3,4,4,"2,00","0,19","0,15","64,00","0,76","0,76"
+Departamento De Lingüistica Y Literatura,811,638,649,191,126,141,"16,0","0,3","0,3",3,3,3,"33,00","0,51","0,49","85,00","0,92","0,92"
+Departamento De Matematica Y Ciencia De La Computacion,822,680,685,140,141,166,"36,0","0,2","0,2",4,4,4,"8,00","0,19","0,20","71,00","0,91","0,91"
+Departamento De Publicidad E Imagen,494,432,433,87,58,97,"14,0","0,3","0,3",2,2,3,"59,00","0,62","0,68","91,00","0,93","0,93"
+Departamento De Quimica De Los Materiales,67,246,234,18,58,79,"85,0","0,6","0,7",1,3,3,"40,00","0,54","0,35","83,00","0,71","0,71"
+Departamento De Tecnologias De Gestion,259,183,266,93,79,122,"12,0","0,2","0,1",3,5,5,"34,00","0,41","0,45","78,00","1,00","1,00"
+Departamento De Tecnologias Industriales,483,233,228,187,80,90,"19,0","0,2","0,2",4,4,4,"21,00","0,36","0,27","68,00","0,68","0,68"
+Escuela De Arquitectura,541,468,478,97,74,100,"30,0","0,2","0,2",1,1,1,"49,00","0,74","0,51","91,00","0,89","0,89"
+Escuela De Ciencias De La Actividad Fisica El Deporte Y La Salud,421,342,386,122,96,108,"8,0","0,2","0,2",3,3,3,"34,00","0,51","0,43","80,00","0,92","0,92"
+Escuela De Enfermeria,390,284,248,68,39,41,"4,0","0,2","0,2",1,1,1,"17,00","0,52","0,67","85,00","0,76","0,76"
+Escuela De Kinesiologia,290,235,242,52,43,50,"8,0","0,2","0,2",1,1,1,"23,00","0,47","0,44","87,00","0,90","0,90"
+Escuela De Medicina,591,378,381,93,43,48,"13,0","0,1","0,1",1,1,1,"74,00","0,85","0,78","98,00","0,96","0,96"
+Escuela De Obstetricia Y Puericultura,421,306,275,60,41,40,"7,0","0,2","0,2",1,1,1,"0,00","0,24","0,29","92,00","0,92","0,92"
+Escuela De Periodismo,331,301,292,74,60,57,"22,0","0,2","0,3",1,1,1,"54,00","0,59","0,63","86,00","0,82","0,82"
+Escuela De Psicologia,595,433,419,126,61,76,"34,0","0,3","0,3",1,1,1,"47,00","0,65","0,63","86,00","0,89","0,89"
+Escuela De Terapia Ocupacional,275,204,198,52,40,42,"2,0","0,0","0,1",1,1,1,"78,00","0,86","0,80","83,00","0,91","0,91"
+Facultad De Derecho,783,772,897,194,164,201,"4,0","0,0","0,2",1,1,1,"0,00","0,03","0,00","79,00","0,80","0,80"
+Facultad De Ingenieria,537,552,635,198,180,220,"0,0","0,0","0,0",3,3,3,N/A,-,"0,09","71,00","0,45","0,45"
+Facultad De Quimica Y Biologia,692,345,342,127,69,71,"0,0","0,0","0,0",3,1,1,"20,00","0,38","0,28","83,00","0,91","0,91"
+Facultad De Ciencias Medicas,N/A,0,0,N/A,0,0,"14,0","0,2","0,2",8,0,0,N/A,"0,41","0,32",N/A,-,-
+Departamento De Ciencias Del Ambiente,N/A,0,0,N/A,0,0,"87,0","0,5","0,5",1,0,0,N/A,-,-,N/A,-,-
+total,21460,17338,17499,4666,3735,4358,"0,26","0,28","0,29",81,76,78,,"0,38","0,30",,"0,78","0,79"
+Notas:,,,,,,,,,,,,,,,,,,
+"1) Alumnos matriculados que ingresan por el sistema de matrícula regular (ngreso PAES), año 2023.",,,,,,,,,,,,,,,,,,
+"2) Corresponde a la proporción de académicos jornadas completas equivalentes con grado de doctor versus los Jornadas completas equivalentes, año 2023",,,,,,,,,,,,,,,,,,
+"3) Número de carreras que se dictan en el departamento, año 2023",,,,,,,,,,,,,,,,,,
+"4) Número de proyectos de investigación en ejecución financiados por ANID, año 2023",,,,,,,,,,,,,,,,,,
+"5) Número de publicaciones ponderadas Wos y Scielo, las Scielo valen un tercio de una Wos, año 2023.",,,,,,,,,,,,,,,,,,
+"6) Tasa de títulación al período n+1, año 2023.",,,,,,,,,,,,,,,,,,
+7) Tasa de retención de los maatrículados en el año 2022 que pasaron al año 2023.,,,,,,,,,,,,,,,,,,

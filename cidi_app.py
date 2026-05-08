@@ -71,6 +71,10 @@ with tab1:
         
     with col3:
         st.metric("n_carrera diurnas", f"{round(df_final['n_carreras_j1'].sum(),0)}")
+    
+with tab2:
+    
+    st.dataframe(df_rev, use_container_width=True)
     #st.metric("mat_1er total: {df_final['mat_1er'].sum()}")
     #st.metric("n_carreras_j1 total: {df_final['n_carreras_j1'].sum()}")
     
